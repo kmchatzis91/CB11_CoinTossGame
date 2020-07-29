@@ -1,0 +1,7 @@
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\bin\Debug\IGameExercise.exe.config
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\bin\Debug\IGameExercise.exe
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\bin\Debug\IGameExercise.pdb
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\obj\Debug\IGameExercise.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\obj\Debug\IGameExercise.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\obj\Debug\IGameExercise.exe
+C:\Users\kmcha\Desktop\IGameExercise\IGameExercise\obj\Debug\IGameExercise.pdb
